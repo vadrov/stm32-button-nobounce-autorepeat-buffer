@@ -1,6 +1,7 @@
 Copyright (C) 2022, VadRov, all right reserved.
 
-Модуль для работы с кнопоками на микроконтроллере stm32f4 (и не только stm32f4, и не только stm32).
+# Модуль для работы с кнопоками на микроконтроллере stm32f4 (и не только stm32f4, и не только stm32).
+
 Путем несложной модификации модуль возможно использовать на любых микроконтроллерах, отвечающих минимальным требованиям.
 
 Модуль позволяет программно устранять дребезг контактов, реализует программируемый автоповтор нажатия кнопки с заданным периодом и реализует
@@ -27,9 +28,6 @@ Copyright (C) 2022, VadRov, all right reserved.
 В видео подробно рассказано об использовании модуля и приведен пример построения проекта в среде STM32CubeIDE:
  [![Watch the video](https://img.youtube.com/vi/e-w5HS75neg/maxresdefault.jpg)](https://youtu.be/e-w5HS75neg)
 
-Автор: VadRov
-Контакты:
-https://www.youtube.com/c/VadRov
-https://zen.yandex.ru/vadrov
-https://vk.com/vadrov
-https://t.me/vadrov_channel
+Автор: **VadRov**
+
+Контакты: [Youtube](https://www.youtube.com/c/VadRov) [Дзен](https://zen.yandex.ru/vadrov) [VK](https://vk.com/vadrov) [Telegram](https://t.me/vadrov_channel)
