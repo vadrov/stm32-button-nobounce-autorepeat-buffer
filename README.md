@@ -31,3 +31,5 @@ Copyright (C) 2022, VadRov, all right reserved.
 Автор: **VadRov**
 
 Контакты: [Youtube](https://www.youtube.com/c/VadRov) [Дзен](https://zen.yandex.ru/vadrov) [VK](https://vk.com/vadrov) [Telegram](https://t.me/vadrov_channel)
+
+Донат: [Поддержать автора](https://yoomoney.ru/to/4100117522443917)
